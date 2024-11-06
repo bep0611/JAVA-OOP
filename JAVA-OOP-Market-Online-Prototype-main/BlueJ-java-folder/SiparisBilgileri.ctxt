@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SiparisBilgileri
+comment1.params=
+comment1.target=SiparisBilgileri()
+comment2.params=
+comment2.target=java.lang.String\ getUrunAdi()
+comment3.params=
+comment3.target=double\ getToplamFiyat()
+comment4.params=
+comment4.target=java.lang.String\ getUrunAdeti()
+comment5.params=
+comment5.target=java.lang.String\ getKargoUcret()
+comment6.params=p_Urun
+comment6.target=java.lang.String\ setUrunAd(java.lang.String)
+comment7.params=p_Fiyat
+comment7.target=double\ setToplamFiyat(double)
+comment8.params=p_Adet
+comment8.target=java.lang.String\ setUrunAdeti(java.lang.String)
+comment9.params=p_KargoUcreti
+comment9.target=java.lang.String\ setKargoUcret(java.lang.String)
+numComments=10

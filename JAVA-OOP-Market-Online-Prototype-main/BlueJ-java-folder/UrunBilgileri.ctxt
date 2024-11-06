@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=UrunBilgileri
+comment1.params=
+comment1.target=UrunBilgileri()
+comment2.params=p_UrunFiyat
+comment2.target=UrunBilgileri(java.lang.String)
+comment3.params=p_UrunFiyat\ p_UrunAdi\ p_barkod\ p_Kategori
+comment3.target=UrunBilgileri(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getUrunFiyat()
+comment5.params=p_UrunFiyat
+comment5.target=void\ setFiyat(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getUrunAdi()
+comment7.params=p_UrunAdi
+comment7.target=void\ setUrunAdi(java.lang.String)
+comment8.params=p_barkod
+comment8.target=int\ getbarkod(int)
+comment9.params=p_Kategori
+comment9.target=java.lang.String\ getKategori(java.lang.String)
+numComments=10

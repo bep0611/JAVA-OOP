@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=OdemeBilgileri
+comment1.params=
+comment1.target=OdemeBilgileri()
+comment2.params=
+comment2.target=java.lang.String\ getOdemeTuru()
+comment3.params=
+comment3.target=java.lang.String\ getKrKartTuru()
+comment4.params=
+comment4.target=java.lang.String\ getKullan\u0131lanBanka()
+comment5.params=
+comment5.target=java.lang.String\ getKrKartNumaras\u0131()
+comment6.params=p_odeme
+comment6.target=java.lang.String\ setOdemeTuru(java.lang.String)
+comment7.params=p_KartTur
+comment7.target=java.lang.String\ setKrKartTuru(java.lang.String)
+comment8.params=p_KrKartBanka
+comment8.target=java.lang.String\ setKartBanka(java.lang.String)
+comment9.params=p_KrediKartNu
+comment9.target=double\ setKrKartNumaras\u0131(double)
+numComments=10

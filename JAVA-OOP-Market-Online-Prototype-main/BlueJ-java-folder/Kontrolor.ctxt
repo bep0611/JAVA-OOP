@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Kontrolor
+comment1.params=
+comment1.target=Kontrolor()
+comment2.params=
+comment2.target=void\ Yaz()
+comment3.params=
+comment3.target=void\ UrunFiyat()
+comment4.params=
+comment4.target=void\ odemeTuruSec()
+comment5.params=
+comment5.target=void\ MusteriAd\u0131Al()
+comment6.params=
+comment6.target=void\ krKartNumaras\u0131Al()
+comment7.params=
+comment7.target=void\ urunAdAl()
+numComments=8
